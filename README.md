@@ -8,7 +8,7 @@
 
 
 🌱 I’m currently learning 
-- **Python** at [KeepCoding Academy](https://keepcoding.io/nuestros-bootcamps/mujeres-glovo/)
+- **Web Development** at [KeepCoding Academy](https://keepcoding.io/nuestros-bootcamps/mujeres-glovo/)
 - **Python** at [Mil Programadores Salteños](http://plataforma.milprogramadores.com.ar/course/3/about)
 - **Software Development** at [Universidad Provincial de Administracion, Tecnologia y Oficios](http://inscripciones.upateco.edu.ar/oferta-academica/carrera-en-salta/tecnicatura-universitaria-en-desarrollo-de-software/398/971)
 
