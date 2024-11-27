@@ -29,7 +29,7 @@
 -- Built using NodeJS, Express and MongoDB
 - [Expenses Calculator](https://sarainesgonz.github.io/Control-de-Gastos---JS-desde-navegador---Bootcamp-KeepCoding-Glovo/)
 -- Built using JavaScript on the Browser, HTML, CSS
-- [English Academy Web App](https://youtu.be/wKw4ZP0Xvkg)
+- [English Academy Web App](https://adorable-biscochitos-1cfc85.netlify.app/)
 -- Built using ReactJS, Express, NodeJS, MySQL
 
 ### First projects
