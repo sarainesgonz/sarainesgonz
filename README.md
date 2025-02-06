@@ -24,7 +24,7 @@
 
 ## **Projects I've been working on lately**
 - [Biblioteca UPATecO](https://biblioteca-upateco.vercel.app/)
--- Built using NextJs and ReactJS
+-- Built using NextJs and ReactJs
 - [InfoSphere](https://prog3-infosphere.netlify.app/)
 -- Built using ReactJs and Bootstrap
 - [My Notes App](https://sarainesgonz.github.io/vue-note-taking-app/#/)
